@@ -144,8 +144,8 @@ The dashboard provides a **360° view of business operations**, analyzing order 
 
 ## 🧑‍💻 Author
 
-**Neeraj Kumar**  
-📧 [LinkedIn Profile](https://www.linkedin.com/in/krneerajsingh/)
+** Surendar S **  
+📧 [LinkedIn Profile](https://www.linkedin.com/in/surendar-s-52b441279/)
 
 ---
 
